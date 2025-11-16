@@ -7,7 +7,7 @@ framework_type: nlp_islamic_coaching
 language: en_ar
 parent: NLP_Islamic_Coach_v3
 path: 01_core/03_meta_framework.md
-references: soul_model, implementation_protocol, heart_diseases_framework
+references: soul_model, implementation_protocol, heart_diseases_implementation_framework
 ai_optimization: [meta_state_processing, frame_analysis, matrix_manipulation]
 complexity_level: 5
 context_sensitivity: high

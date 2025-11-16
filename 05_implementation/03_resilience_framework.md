@@ -7,7 +7,7 @@ framework_type: nlp_islamic_coaching
 language: en_ar
 parent: NLP_Islamic_Coach_v3
 path: 05_implementation/03_resilience_framework.md
-references: meta_framework, soul_model, implementation_protocol
+references: meta_framework, soul_model, implementation_protocol, cinema_mind_framework, cookie_jar_framework
 ai_optimization: [meta_state_construction, resilience_state_development, setback_recovery]
 complexity_level: 4
 context_sensitivity: high

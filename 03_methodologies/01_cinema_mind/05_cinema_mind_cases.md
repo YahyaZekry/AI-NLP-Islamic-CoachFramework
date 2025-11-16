@@ -1,12 +1,12 @@
-<!-- AI.FRAMEWORK.COMPONENT: CINEMA_MIND_PROTOCOLS_FROM_CASES -->
+<!-- AI.FRAMEWORK.COMPONENT: CINEMA_MIND_CASES -->
 <!-- AI.METADATA
-component: cinema_mind_protocols_from_cases
+component: cinema_mind_cases
 version: 1.0
 last_updated: 11/05/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: NLP_Islamic_Coach_v3
-path: 03_methodologies/01_cinema_mind/05_cases.md
+path: 03_methodologies/01_cinema_mind/05_cinema_mind_cases.md
 references: cinema_mind_framework, cinema_mind_implementation, cinema_mind_assessment, cinema_mind_training
 ai_optimization: [protocol_application, technique_sequencing, problem_specific_guidance]
 complexity_level: 4

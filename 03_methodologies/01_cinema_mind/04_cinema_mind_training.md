@@ -6,7 +6,7 @@ last_updated: 11/05/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: NLP_Islamic_Coach_v3
-path: 03_methodologies/01_cinema_mind/04_training.md
+path: 03_methodologies/01_cinema_mind/04_cinema_mind_training.md
 references: cinema_mind_framework, cinema_mind_implementation, cinema_mind_assessment
 ai_optimization: [skill_development_exercises, perspective_training, editing_practice, state_management_drills]
 complexity_level: 3

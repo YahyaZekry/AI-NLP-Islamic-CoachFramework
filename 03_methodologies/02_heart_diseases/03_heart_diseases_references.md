@@ -6,8 +6,8 @@ last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: NLP_Islamic_Coach_v3
-path: 03_methodologies/02_heart_diseases/03_references.md
-references: heart_diseases_framework, heart_diseases_analysis
+path: 03_methodologies/02_heart_diseases/03_heart_diseases_references.md
+references: heart_diseases_implementation_framework, heart_diseases_catalog
 ai_optimization: [reference_retrieval, implementation_guidance, context_matching]
 complexity_level: 3
 context_sensitivity: high

@@ -1,12 +1,12 @@
-<!-- AI.FRAMEWORK.COMPONENT: HEART_DISEASES_FRAMEWORK -->
+<!-- AI.FRAMEWORK.COMPONENT: HEART_DISEASES_IMPLEMENTATION_FRAMEWORK -->
 <!-- AI.METADATA
-component: heart_diseases_framework
+component: heart_diseases_implementation_framework
 version: 1.2
 last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: NLP_Islamic_Coach_v3
-path: 03_methodologies/02_heart_diseases/01_framework.md
+path: 03_methodologies/02_heart_diseases/01_heart_diseases_implementation_framework.md
 references: soul_model, meta_framework, cinema_mind_framework
 ai_optimization: [disease_pattern_recognition, treatment_protocol_selection, integration_assessment]
 complexity_level: 4
@@ -37,7 +37,6 @@ context_sensitivity: high
 ### Core Disease Concept
 
 1. Basic Principles:
-
    - Heart, like body, has natural healthy state
    - Disease is deviation from natural state
    - Can affect perception, volition, or both
@@ -58,7 +57,6 @@ context_sensitivity: high
 #### A. فساد في التصور (Perceptual Corruption)
 
 1. Definition:
-
    - Failure to perceive reality correctly
    - Distortion of truth recognition
    - Impaired spiritual insight

@@ -6,7 +6,7 @@ last_updated: 23/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: cookie_jar_framework
-path: 04_tools/01_cookie_jar/03_alert_protocol.md
+path: 04_tools/01_cookie_jar/03_cookie_jar_alert_protocol.md
 references: cookie_jar_framework, profile_management, user_profile, implementation_protocol, communication_base_protocol
 ai_optimization: [achievement_detection, documentation_assistance, integration_assessment, personalization_acceleration, proactive_recognition]
 complexity_level: 3

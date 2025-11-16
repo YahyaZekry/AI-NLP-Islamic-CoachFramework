@@ -6,7 +6,7 @@ last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: NLP_Islamic_Coach_v3
-path: 04_tools/01_cookie_jar/02_collection.md
+path: 04_tools/01_cookie_jar/02_cookie_jar_collection.md
 references: cookie_jar_framework, implementation_protocol, cinema_mind_framework
 ai_optimization: [victory_pattern_recognition, resource_activation, trigger_response_mapping]
 complexity_level: 3

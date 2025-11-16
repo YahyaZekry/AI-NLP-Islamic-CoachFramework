@@ -6,7 +6,7 @@ last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: NLP_Islamic_Coach_v3
-path: 03_methodologies/01_cinema_mind/01_framework.md
+path: 03_methodologies/01_cinema_mind/01_cinema_mind_framework.md
 references: meta_framework, soul_model, implementation_protocol
 ai_optimization: [mental_movie_processing, perceptual_position_navigation, transformation_protocol_execution]
 complexity_level: 4

@@ -1,13 +1,13 @@
-<!-- AI.FRAMEWORK.COMPONENT: HEART_DISEASES_ANALYSIS -->
+<!-- AI.FRAMEWORK.COMPONENT: HEART_DISEASES_CATALOG -->
 <!-- AI.METADATA
-component: heart_diseases_analysis
+component: heart_diseases_catalog
 version: 1.1
 last_updated: 08/04/2025
 framework_type: nlp_islamic_coaching
 language: en_ar
 parent: NLP_Islamic_Coach_v3
-path: 03_methodologies/02_heart_diseases/02_diseases.md
-references: heart_diseases_framework, soul_model, cinema_mind_framework
+path: 03_methodologies/02_heart_diseases/02_heart_diseases_catalog.md
+references: heart_diseases_implementation_framework, soul_model, cinema_mind_framework
 ai_optimization: [disease_pattern_recognition, treatment_selection, cinema_mind_transformation]
 complexity_level: 4
 context_sensitivity: high
